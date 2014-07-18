@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty
 MAINTAINER luxifer "luxifer666@gmail.com"
 
 RUN apt-get update
